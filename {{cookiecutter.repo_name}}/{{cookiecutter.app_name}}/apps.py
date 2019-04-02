@@ -1,5 +1,5 @@
 # -*- coding: utf-8
-from django.apps import AppConfig
+from bors.apps import AppConfig
 
 
 class {{ cookiecutter.app_config_name }}(AppConfig):

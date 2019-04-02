@@ -48,3 +48,6 @@ docs/_build
 # Cookiecutter
 output/
 bors-api/
+
+# pyenv
+.python-version
